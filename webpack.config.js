@@ -56,6 +56,6 @@ sections.forEach(section => {
     title: section,
     filename: `${section}.html`,
     template: `./src/${section}.html`,
-    chunks: `${section}`
+    chunks: [section]
   }));
 });
