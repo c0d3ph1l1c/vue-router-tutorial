@@ -1,0 +1,37 @@
+{
+  "name": "vue-router-tutorial",
+  "version": "1.0.0",
+  "description": "",
+  "main": "sections.js",
+  "scripts": {
+    "start": "webpack-dev-server --open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/c0d3ph1l1c/vue-router-tutorial.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/c0d3ph1l1c/vue-router-tutorial/issues"
+  },
+  "homepage": "https://github.com/c0d3ph1l1c/vue-router-tutorial#readme",
+  "devDependencies": {
+    "@babel/core": "^7.8.4",
+    "@babel/preset-env": "^7.8.4",
+    "babel-loader": "^8.0.6",
+    "css-loader": "^3.4.2",
+    "file-loader": "^5.0.2",
+    "html-loader": "^0.5.5",
+    "html-webpack-plugin": "^3.2.0",
+    "style-loader": "^1.1.3",
+    "vue": "^2.6.11",
+    "webpack": "^4.41.6",
+    "webpack-cli": "^3.3.11"
+  },
+  "dependencies": {
+    "vue-router": "^3.1.5",
+    "webpack-dev-server": "^3.10.3"
+  }
+}
