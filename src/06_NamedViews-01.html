@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Named Views</title>
+</head>
+<body>
+  <div id="app">
+    <h1>Named views</h1>
+    <ul>
+      <li>
+        <router-link to="/">/</router-link>
+      </li>
+      <li>
+        <router-link to="/other">/other</router-link>
+      </li>
+    </ul>
+    <router-view class="view one"></router-view>
+    <router-view class="view two" name="a"></router-view>
+    <router-view class="view three" name="b"></router-view>
+  </div>
+</body>
+</html>

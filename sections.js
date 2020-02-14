@@ -7,5 +7,7 @@ module.exports = [
   '03_NestedRoutes-01',
   '04_ProgrammaticNavigation-01',
   '05_NamedRoutes-01',
+  '06_NamedViews-01',
+  '06_NamedViews-01_NestedNamedViews-01',
   'index'
 ];
