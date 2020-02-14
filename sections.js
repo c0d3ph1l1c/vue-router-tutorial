@@ -13,5 +13,6 @@ module.exports = [
   '07_RedirectAndAlias-02_Alias-01',
   '08_PassingPropsToRouteComponents-01',
   '08_PassingPropsToRouteComponents-02',
+  '09_HTML5HistoryMode-01',
   'index'
 ];
