@@ -11,5 +11,7 @@ module.exports = [
   '06_NamedViews-01_NestedNamedViews-01',
   '07_RedirectAndAlias-01_Redirect-01',
   '07_RedirectAndAlias-02_Alias-01',
+  '08_PassingPropsToRouteComponents-01',
+  '08_PassingPropsToRouteComponents-02',
   'index'
 ];
