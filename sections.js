@@ -6,5 +6,6 @@ module.exports = [
   '02_DynamicRouteMatching-03_AdvancedMatchingPatterns-01',
   '03_NestedRoutes-01',
   '04_ProgrammaticNavigation-01',
+  '05_NamedRoutes-01',
   'index'
 ];
