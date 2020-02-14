@@ -9,5 +9,7 @@ module.exports = [
   '05_NamedRoutes-01',
   '06_NamedViews-01',
   '06_NamedViews-01_NestedNamedViews-01',
+  '07_RedirectAndAlias-01_Redirect-01',
+  '07_RedirectAndAlias-02_Alias-01',
   'index'
 ];
