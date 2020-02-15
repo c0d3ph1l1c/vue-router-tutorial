@@ -14,5 +14,10 @@ module.exports = [
   '08_PassingPropsToRouteComponents-01',
   '08_PassingPropsToRouteComponents-02',
   '09_HTML5HistoryMode-01',
+  '10_NavigationGuards-01_GlobalBeforeGuards-01',
+  '10_NavigationGuards-02_GlobalResolveGuards-01',
+  '10_NavigationGuards-03_GlobalAfterHooks-01',
+  '10_NavigationGuards-04_PreRouteGuard-01',
+  '10_NavigationGuards-05_InComponentGuards-01',
   'index'
 ];
