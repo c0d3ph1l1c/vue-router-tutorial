@@ -19,5 +19,6 @@ module.exports = [
   '10_NavigationGuards-03_GlobalAfterHooks-01',
   '10_NavigationGuards-04_PerRouteGuard-01',
   '10_NavigationGuards-05_InComponentGuards-01',
+  '11_RouteMetaFields-01',
   'index'
 ];
