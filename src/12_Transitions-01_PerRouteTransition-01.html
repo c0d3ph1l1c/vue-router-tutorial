@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Transitions - Per-Route Transition</title>
+  <style>
+    .slide-enter, .slide-leave-to {
+      transform: translateX(-130px);
+    }
+
+    .slide-enter-active, .slide-leave-active {
+      transition: transform 5s ease;
+    }
+
+    .fade-enter, .fade-leave-to {
+      opacity: 0;
+    }
+
+    .fade-enter-active, .fade-leave-active {
+      transition: opacity 5s ease;
+    }
+    
+    .foo {
+      width: 100px;
+      height: 100px;
+      background: #f88;
+      color: #fff;
+      position: absolute;
+    }
+
+    .bar {
+      width: 100px;
+      height: 100px;
+      background: #88f;
+      color: #fff;
+      position: absolute;
+    }
+  </style>
+</head>
+<body>
+  <div id="app"></div>
+</body>
+</html>
