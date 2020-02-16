@@ -23,5 +23,7 @@ module.exports = [
   '12_Transitions-01',
   '12_Transitions-01_PerRouteTransition-01',
   '12_Transitions-02_RouteBasedDynamicTransition-01',
+  '13_DataFetching-01_FetchingAfterNavigation-01',
+  '13_DataFetching-02_FetchingBeforeNavigation-01',
   'index'
 ];
