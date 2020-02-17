@@ -27,5 +27,6 @@ module.exports = [
   '13_DataFetching-02_FetchingBeforeNavigation-01',
   '14_ScrollBehavior-01',
   '14_ScrollBehavior-01_AsyncScrolling-01',
-  'index'
+  '15_LazyLoadingRoutes-01',
+  '15_LazyLoadingRoutes-01_GroupingComponentsInTheSameChunk-01',
 ];

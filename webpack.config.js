@@ -7,7 +7,8 @@ module.exports = {
   entry: {},
   output: {
     path: path.resolve(__dirname, 'dist'),
-    filename: 'js/[name]-[contentHash].js'
+    filename: 'js/[name]-[contentHash].js',
+    chunkFilename: 'chunk/[name]-[contentHash].js'
   },
   devServer: {
     index: `${sections[sections.length-1]}.html`,
