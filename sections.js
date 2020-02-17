@@ -25,5 +25,7 @@ module.exports = [
   '12_Transitions-02_RouteBasedDynamicTransition-01',
   '13_DataFetching-01_FetchingAfterNavigation-01',
   '13_DataFetching-02_FetchingBeforeNavigation-01',
+  '14_ScrollBehavior-01',
+  '14_ScrollBehavior-01_AsyncScrolling-01',
   'index'
 ];
